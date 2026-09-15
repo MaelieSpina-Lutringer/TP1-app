@@ -110,19 +110,7 @@ namespace TP1_app
 
 
         }
-        static void Main(string[] args)
-        {
-            Contacts contacts = new Contacts();
-            Utilisateurs utilisateur1 = new Utilisateurs
-            {
-                Nom = "Doe",
-                Prenom = "John",
-                Adresse = "123 Main St",
-                CodePostal = "12345",
-                Ville = "Anytown",
-                Email = "",
-            };
-           }
     }
 }
+
 
